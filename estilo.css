@@ -1,0 +1,31 @@
+h1{color: darksalmon;
+font-size: 40px;
+text-align: center;
+text-decoration: underline;
+background-color: bisque;
+}
+
+
+.texto1{color: coral;
+font-size: 35px;}
+.texto2{color: deeppink;
+font-size: 23px;}
+.texto3{text-align: left;
+font-size: 20px;}
+.texto4{color: darkorchid;
+font-size: 20px;}
+.texto5{color: palevioletred;
+font-size: 20px;}
+.texto6{color: violet;
+font-size: 20px;}
+.texto7{color: lightsalmon;}
+.texto8{text-align: center;}
+.texto9{text-align: center;}
+.texto10{background-color: rgb(231, 231, 231);}
+
+
+p{text-align: center;}
+
+h2{color: rgb(224, 92, 39);
+    font-size: 30px;}
+
